@@ -7,12 +7,12 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "6287740938972",
       "required": true
     },  
 
     "PASSWORD": {
-      "description": "Enter a password of your choice here",
+      "description": "AmerikaS123",
       "required": true
     },
 
@@ -22,11 +22,11 @@
     },
     
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "zangetsuss",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth-token here.",
+      "description": "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",
       "required": true
     }   
 },
